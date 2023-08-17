@@ -26,7 +26,10 @@ public class Helloworld {
 
         int resultadoSuma = sumar(num1, num2);
         int resultadoResta = restar(num1, num2);
-
+//digitamos sout y tap  para mostrar los resultados
+  System.out.println("Resultado de la suma: " + resultadoSuma);
+        System.out.println("Resultado de la resta: " + resultadoResta);
+        
      }
  
 }
