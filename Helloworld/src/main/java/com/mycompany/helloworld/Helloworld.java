@@ -8,9 +8,7 @@ package com.mycompany.helloworld;
  *
  * @author Alumno
  */
+// crear una nueva clase
 public class Helloworld {
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
 }
