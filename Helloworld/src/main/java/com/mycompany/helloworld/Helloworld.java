@@ -20,7 +20,13 @@ public class Helloworld {
     }
  // creamos la funcion main
      public static void main(String[] args) {
-     
+     //lramar las v ariables
+        int num1 = 10;
+        int num2 = 5;
+
+        int resultadoSuma = sumar(num1, num2);
+        int resultadoResta = restar(num1, num2);
+
      }
  
 }
