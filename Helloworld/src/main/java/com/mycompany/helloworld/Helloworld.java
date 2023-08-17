@@ -10,8 +10,14 @@ package com.mycompany.helloworld;
  */
 // crear una nueva clase
 public class Helloworld {
+    //definimos para la suma
     public static int sumar(int a, int b) {
         return a + b;
     }
-
+    // definimos para resta
+ public static int restar(int a, int b) {
+        return a - b;
+    }
+ 
+ 
 }
