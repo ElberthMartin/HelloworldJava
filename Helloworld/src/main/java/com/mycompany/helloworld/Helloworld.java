@@ -48,5 +48,8 @@ public class Helloworld {
                 operacion = "resta";
                 break;
         }
+        // Mostraremos el resultado usando JOptionPane
+        JOptionPane.showMessageDialog(null, "Resultado de la " + operacion + ": " + resultado);
+
     }
 }
