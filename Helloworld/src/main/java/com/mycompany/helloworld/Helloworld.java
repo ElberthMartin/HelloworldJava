@@ -18,6 +18,9 @@ public class Helloworld {
  public static int restar(int a, int b) {
         return a - b;
     }
- 
+ // creamos la funcion main
+     public static void main(String[] args) {
+     
+     }
  
 }
